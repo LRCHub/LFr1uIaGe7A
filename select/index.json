@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "彼女と星の椅子",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-02-09T12:48:32.114090Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "彼女と星の椅子",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/01_彼女と星の椅子_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "彼女と星の椅子",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_彼女と星の椅子_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
